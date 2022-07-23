@@ -10,7 +10,7 @@ export class Tab1Page {
   constructor() {}
 
   onBlur(event: Event) {
-    console.log('onBlur', event);
+    console.log('onBlur emitted');
   }
 
 }
